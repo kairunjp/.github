@@ -6,6 +6,6 @@ HI!
 
 ## 📈 Status
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kairunjp&layout=compact&show_icons=true" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?organization=kairunjp&layout=compact&show_icons=true&count_private=true&theme=ambient_gradient" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kairunjp" />
 </p>
